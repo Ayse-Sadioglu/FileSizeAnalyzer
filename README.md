@@ -1,1 +1,2 @@
 # FileSizeAnalyzer
+This code calculates the sizes of files in a given directory. It utilizes the os module to access file-related operations and retrieve file sizes. The code prompts the user to input a directory path and then recursively walks through the directory, collecting file sizes. The file sizes are stored in a dictionary where the keys represent the file paths, and the values are the corresponding file sizes in bytes. Finally, the code prints the file names and sizes.
